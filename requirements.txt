@@ -1,0 +1,6 @@
+fastapi
+pylint
+uvicorn
+pytest
+pytest-cov
+black
